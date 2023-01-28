@@ -1,6 +1,6 @@
 # Mathematical tools
 
-This repository is a dedicated to be a simple reference of mathematical tools for numeric python code. List of contents:
+This repository is dedicated to be a didactic reference of mathematical tools that I have used along Ph.D for numeric python code. List of contents:
 
 - Derivative of a matrix
 - Statistical distributions, specifying expected values
